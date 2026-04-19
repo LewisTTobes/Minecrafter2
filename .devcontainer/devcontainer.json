@@ -1,5 +1,4 @@
 {
-  "name": "Minecrafter5 Safe Environment",
-  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
-  "postCreateCommand": "mkdir -p Assets/Scripts/Core Assets/Scripts/Player Assets/Scripts/World Assets/Scripts/Blocks Assets/Scripts/Inventory Assets/Scripts/Crafting Assets/Scripts/Dimensions Assets/Scripts/Multiplayer Assets/Scripts/UI Assets/Prefabs Assets/Scenes"
+  "name": "Minecrafter5 Safe",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu"
 }
